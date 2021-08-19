@@ -1,0 +1,1 @@
+# Disease-Detection-of-rice-crops-using-image-process
